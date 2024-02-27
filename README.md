@@ -1,4 +1,4 @@
- **[点我获取源码](http://blog.cyrobot.top/blog/article/158)💕🤞** 
+ **[点我查看详情并获取源码](http://blog.cyrobot.top/blog/article/158)💕🤞** 
 
 
 # 基于SSM的高校在线考试系统+论文示例参考

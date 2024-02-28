@@ -1,7 +1,7 @@
  **[点我查看详情并获取源码](http://blog.cyrobot.top/blog/article/158)💕🤞** 
 
 
-# 基于SSM的高校在线考试系统+论文示例参考
+ **郑重声明：项目经过本地测试，确保可以运行。项目仅供学习和毕业设计参考~** 
 
 #### 介绍
 技术栈+环境： SSM + LayUI +MySQL +IDEA2022 + Tomcat8

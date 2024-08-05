@@ -1,7 +1,4 @@
-**[只要源码，点我获取](https://x-x.fun/e/HCf50ff76d8YF)💕🤞**
-
-**[点我查看详情，获取源码+论文参考示例](http://blog.cyrobot.top/blog/article/158)💕🤞** 
-
+![gh_17810254f3db_258](https://github.com/user-attachments/assets/17140b05-4d3c-429b-b0b3-41d55a4ee02f)
 
  **郑重声明：项目经过本地测试，确保可以运行。项目仅供学习和毕业设计参考~** 
 
